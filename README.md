@@ -21,3 +21,5 @@ It’s going to be a simple site with an explanation of the treatment and info t
 
 
 Need a tagline, temp is ‘researching ways to bring ancient insight into modern times’ temporary
+
+waiting on admin access to start the site
