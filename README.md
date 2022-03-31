@@ -8,7 +8,9 @@ List of pages:
 - Join Us
 - Funding
 
-probably will use astra theme
+probably will use astra theme, 
+not a very complicated site, 
+not collecting medical data
 
 This site is going to be for giving information to people, not storing peoples info correct? CORRECT
 Will be an informational site, collect emails from people, not a really in depth site, info page, about page, contact us page
@@ -19,4 +21,4 @@ I’m not sure which one to use; any thoughts from you?
 
 
 
-Need a tagline, temp is ‘researching ways to bring ancient insight into modern times’
+Need a tagline, temp is ‘researching ways to bring ancient insight into modern times’ temporary
