@@ -8,7 +8,8 @@ List of pages:
 - Join Us
 - Funding
 
-probably will use astra theme, 
+Using astra theme
+
 not a very complicated site, 
 not collecting medical data
 
@@ -20,6 +21,3 @@ No charges involved, no adjustments or nutrition involved. They will be receivin
 It’s going to be a simple site with an explanation of the treatment and info to contact it they want to join.  
 
 
-Need a tagline, temp is ‘researching ways to bring ancient insight into modern times’ temporary
-
-waiting on admin access to start the site
