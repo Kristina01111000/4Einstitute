@@ -21,3 +21,5 @@ No charges involved, no adjustments or nutrition involved. They will be receivin
 It’s going to be a simple site with an explanation of the treatment and info to contact it they want to join.  
 
 
+- Add pages
+- make intro page look nice
