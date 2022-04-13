@@ -23,6 +23,6 @@ It’s going to be a simple site with an explanation of the treatment and info t
 
 - Add pages
 - make intro page look nice
-- color scheme
+- color scheme + layout for site
 - ask about logo
 - put lorem ipsum in for now
