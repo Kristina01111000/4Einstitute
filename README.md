@@ -27,3 +27,7 @@ It’s going to be a simple site with an explanation of the treatment and info t
 - ask about logo
 - put lorem ipsum in for now
 - need new email for contact page, it does to admin email, i don;t want that 
+
+
+Capital i in new font needs the top and bottom part
+No sidebar, put a picture on the right, he likes the ⅔ page currently, maybe a brain
