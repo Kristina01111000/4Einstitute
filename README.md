@@ -21,8 +21,9 @@ No charges involved, no adjustments or nutrition involved. They will be receivin
 It’s going to be a simple site with an explanation of the treatment and info to contact it they want to join.  
 
 
-- Add pages
+
 - make intro page look nice
 - color scheme + layout for site
 - ask about logo
 - put lorem ipsum in for now
+- need new email for contact page, it does to admin email, i don;t want that 
