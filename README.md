@@ -24,3 +24,7 @@ It’s going to be a simple site with an explanation of the treatment and info t
 
 - ask about logo
 - need new email for contact page, it does to admin email, i don;t want that 
+
+
+He is going to forward me the copy for 4 e institute
+Switch the way the guy is facing
