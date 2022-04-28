@@ -31,3 +31,8 @@ Need a different email for four element institute contact form to go to - > send
 Is the new font good? Look at a more modern sans serif type font, still make sure that the I has a top and bottom line. Remember name of current one so we can go back if we like it more, 
 - fixedimage view
 - removed homepage from the top menu
+
+
+- quote make the first letters capitalized under title 
+- Add s to end of insight -> insights
+
