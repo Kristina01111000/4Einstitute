@@ -21,8 +21,6 @@ No charges involved, no adjustments or nutrition involved. They will be receivin
 It’s going to be a simple site with an explanation of the treatment and info to contact it they want to join.  
 
 
-
-- ask about logo
 - need new email for contact page, it does to admin email, i don;t want that 
 
 
@@ -30,7 +28,4 @@ He is going to forward me the copy for 4 e institute
 Need a different email for four element institute contact form to go to - > send them to  hwalsdorf@e it will be something@fourelementinstitute.org will automatically be forwarded to his email contact@fourelementinstitute.org set that up
 Is the new font good? Look at a more modern sans serif type font, still make sure that the I has a top and bottom line. Remember name of current one so we can go back if we like it more, 
 
-
-- quote make the first letters capitalized under title 
-- Add s to end of insight -> insights
 - waiting on logo and copy for site
