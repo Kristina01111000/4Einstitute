@@ -28,4 +28,8 @@ He is going to forward me the copy for 4 e institute
 Need a different email for four element institute contact form to go to - > send them to  hwalsdorf@e it will be something@fourelementinstitute.org will automatically be forwarded to his email contact@fourelementinstitute.org set that up
 Is the new font good? Look at a more modern sans serif type font, still make sure that the I has a top and bottom line. Remember name of current one so we can go back if we like it more, 
 
-- waiting on logo and copy for site
+- waiting on logo
+- added copy
+- need to fiz form
+- add links to page
+- fix projects page formatting
