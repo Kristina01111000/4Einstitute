@@ -29,8 +29,6 @@ Need a different email for four element institute contact form to go to - > send
 Is the new font good? Look at a more modern sans serif type font, still make sure that the I has a top and bottom line. Remember name of current one so we can go back if we like it more, 
 
 - waiting on logo
-- Update links in projects page
-- Better word for ‘independent scholar’ on projects page
 - Set up contact page so it works
 - In form Instead of comment or message say “Name…..Reason for joining The Four Element Institute:....... Affiliated academic institution (if applicable)”
 - No star for academic institute in form, put academic before reason for joining
