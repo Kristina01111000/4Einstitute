@@ -35,13 +35,12 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 - fix projects page formatting
 
 
-Update links in projects page
-Better word for ‘independent scholar’ on projects page
-Make academic and nonacademic have bigger fonts
-Capitalize first letters of words in titles
-Add an extra space after roman numerals
-Set up contact page so it works
-In form Instead of comment or message say “Name…..Reason for joining The Four Element Institute:....... Affiliated academic institution (if applicable)”
-No star for academic institute in form, put academic before reason for joining
-Reason for joining/interest instead of message
-Add his picture to about us page
+- Update links in projects page
+- Better word for ‘independent scholar’ on projects page
+- Capitalize first letters of words in titles
+- Add an extra space after roman numerals
+- Set up contact page so it works
+- In form Instead of comment or message say “Name…..Reason for joining The Four Element Institute:....... Affiliated academic institution (if applicable)”
+- No star for academic institute in form, put academic before reason for joining
+- Reason for joining/interest instead of message
+- Add his picture to about us page
