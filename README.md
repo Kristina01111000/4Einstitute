@@ -34,4 +34,4 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 - No star for academic institute in form, put academic before reason for joining
 - Reason for joining/interest instead of message
 - Add his picture to about us page
-- add sendinblue to set up the contact page
+- add sendinblue to set up the contact page -> need business info for it 
