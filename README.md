@@ -37,5 +37,5 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 - add sendinblue to set up the contact page -> need business info for it 
 
 
-- add the new text in email -   sidebar about alzheimers, link to on porjects page
+- add the new text in email -   sidebar about alzheimers, 
 - is early alzheimers study a good title for the project page?
