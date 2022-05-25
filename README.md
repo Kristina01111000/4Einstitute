@@ -33,7 +33,7 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 - In form Instead of comment or message say “Name…..Reason for joining The Four Element Institute:....... Affiliated academic institution (if applicable)”
 - No star for academic institute in form, put academic before reason for joining
 - Reason for joining/interest instead of message
-- Add his picture to about us page
+- Add his picture to about us page -> copy from univchir site?
 - add sendinblue to set up the contact page -> need business info for it 
 
 
