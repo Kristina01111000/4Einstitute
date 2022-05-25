@@ -38,3 +38,4 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 
 
 - add the new text in email -   sidebar about alzheimers, link to on porjects page
+- is early alzheimers study a good title for the project page?
