@@ -18,8 +18,6 @@ Will be an informational site, collect emails from people, not a really in depth
  "Four Element Institute”.  This summer I intend to initiate a clinical study for Early Alzheimer’s. I’m planning on 10-40 people volunteering. They will not be patients of mine;  but will be going through the Institute. 
 No charges involved, no adjustments or nutrition involved. They will be receiving a set of special cranial exercises and a journal. They’ll be getting Cognitive Impairment Testing pre and post; They will come to my office and receive videos for exercising protocol. As a group they will come regularly for check-ins.
 
-It’s going to be a simple site with an explanation of the treatment and info to contact it they want to join.  
-
 
 - need new email for contact page, it does to admin email, i don;t want that 
 
@@ -30,9 +28,8 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 
 - waiting on logo
 - Set up contact page so it works -> need institute data for send in blue, -> they need it so spammers don't use their service
-- Add his picture to about us page -> copy from univchir site?
-- add sendinblue to set up the contact page -> need business info for it 
 
+- add sendinblue to set up the contact page -> need business info for it 
 
 
 - Think of better title/picture for title
@@ -41,5 +38,4 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 - Look at spacing on sidebar to see if it can be better
 - In form capitalize the academic institution
 - For about us copy about dr walsdorf from the other sites
-- Should his part be on the about us page or a separate page, look at other medical sites to see how they handle it, he’s leaning to another page, put like 4 paragraphs about him
-- Make another page for about him, link to it from the about us page
+- Make another page for about him, link to it from the about us page, copy 4-5 paragraphs from other sites about him
