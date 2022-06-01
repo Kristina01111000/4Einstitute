@@ -34,8 +34,7 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 
 - Think of better title/picture for title
 - Set up contact page so it works
-- Put resources for everyone onto the resource page (from projects)
 - Look at spacing on sidebar to see if it can be better
-- In form capitalize the academic institution
+
 - For about us copy about dr walsdorf from the other sites
 - Make another page for about him, link to it from the about us page, copy 4-5 paragraphs from other sites about him
