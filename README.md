@@ -36,5 +36,3 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 - Set up contact page so it works
 - Look at spacing on sidebar to see if it can be better
 
-- For about us copy about dr walsdorf from the other sites
-- Make another page for about him, link to it from the about us page, copy 4-5 paragraphs from other sites about him
