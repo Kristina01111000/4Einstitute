@@ -36,3 +36,11 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 - Set up contact page so it works
 - Look at spacing on sidebar to see if it can be better
 
+Set up contact page so it works suite 300 same as chiropractic
+Look at spacing on sidebar to see if it can be better
+Remove my email form the form
+Wait for another page for resources page connection join us 
+Need articles for resources page
+Create an email for the site info@fourelementlifestyle.com forward it to hwalsdorf@earthlink.net
+Crop his picture and make it smaller
+On funding page add hot email address for him
