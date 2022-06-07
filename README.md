@@ -33,12 +33,11 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 
 
 - Think of better title/picture for title
-- Set up contact page so it works
-- Set up contact page so it works suite 300 same as chiropractic
-- Remove my email form the form
+- Set up contact page so it works suite 300 same as chiropractic -> need an email for the site
+- Remove my email form the form -> after it is set up
 - Wait for another page for resources page connection join us 
 - Need articles for resources page
-- Create an email for the site info@fourelementlifestyle.com forward it to hwalsdorf@earthlink.net
+- Create an email for the site info@fourelementlifestyle.com forward it to hwalsdorf@earthlink.net need collaborator status in siteground to do that
 - On funding page add hot email address for him
 
 
