@@ -38,7 +38,5 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 - Wait for another page for resources page connection join us 
 - Need articles for resources page
 - Create an email for the site info@fourelementlifestyle.com forward it to hwalsdorf@earthlink.net need collaborator status in siteground to do that
-- On funding page add hot email address for him
-
 
 - Need access to siteground to set up an administrator@site email so i can set up sendinblue
