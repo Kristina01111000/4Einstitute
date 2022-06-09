@@ -40,3 +40,10 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 - Create an email for the site info@fourelementlifestyle.com forward it to hwalsdorf@earthlink.net need collaborator status in siteground to do that
 
 - Need access to siteground to set up an administrator@site email so i can set up sendinblue
+
+Administrator @ site is done, and forwards to me
+Make a scorecard page that is hosted on this site. Copy the text from growing holistically 
+Figure out how scorecard navigation on cell phone will work
+Make pages for different element activities
+Make a page for the documentary on this site
+
