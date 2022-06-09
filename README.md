@@ -32,9 +32,9 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 - Need articles for resources page
 
 
-Administrator @ site is done, and forwards to me
-Make a scorecard page that is hosted on this site. Copy the text from growing holistically 
-Figure out how scorecard navigation on cell phone will work
-Make pages for different element activities
-Make a page for the documentary on this site
-
+- Administrator @ site is done, and forwards to me
+- Make a scorecard page that is hosted on this site. Copy the text from growing holistically 
+- Figure out how scorecard navigation on cell phone will work
+- Make pages for different element activities
+- Make a page for the documentary on this site
+- set up contact page now
