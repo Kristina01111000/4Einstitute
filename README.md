@@ -28,7 +28,7 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 - Think of better title/picture for title
 - Set up contact page so it works suite 300 same as chiropractic -> need an email for the site
 - Remove my email form the form -> after it is set up
-- Wait for another page for resources page connection join us 
+- Wait for another page for resources page connection join us -> added to his to do list
 - Need articles for resources page
 
 
