@@ -31,8 +31,8 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 - Need articles for resources page
 
 
-
-- Make a scorecard page that is hosted on this site. Copy the text from growing holistically 
+- make the 4 element pages for scorecard
+- Attach the different element pages to scorecard page
 - Figure out how scorecard navigation on cell phone will work
 - Make pages for different element activities -> ask about this at next meeting, make a sample for fire - from the scorecard?
     - copy from scorecard page
