@@ -24,7 +24,7 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 - Need articles for resources page
 
 
-- Attach the different element pages to scorecard page
+
 - Figure out how scorecard navigation on cell phone will work
 
 
