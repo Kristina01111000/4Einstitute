@@ -24,11 +24,9 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 - Need articles for resources page
 
 
-- make the 4 element pages for scorecard -> do earth 
 - Attach the different element pages to scorecard page
 - Figure out how scorecard navigation on cell phone will work
-- Make pages for different element activities -> ask about this at next meeting, make a sample for fire - from the scorecard?
-    - copy from scorecard page
+
 
 - Administrator email @ site is done, and forwards to me, set up contact page by next meeting
 - add drop down menu for element pages?
