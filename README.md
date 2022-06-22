@@ -1,13 +1,6 @@
 # 4Einstitute
 drws website
 
-List of pages:
-- Mission
-- Projects
-- Collaborators
-- Join Us
-- Funding
-
 Using astra theme
 
 not a very complicated site, 
