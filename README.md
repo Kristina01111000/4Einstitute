@@ -27,6 +27,4 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 
 - Figure out how scorecard navigation on cell phone will work
 
-
-- Administrator email @ site is done, and forwards to me, set up contact page by next meeting
-- add drop down menu for element pages? 
+- new icon added
