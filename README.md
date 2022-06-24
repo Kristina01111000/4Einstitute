@@ -28,4 +28,4 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 - Figure out how scorecard navigation on cell phone will work
 
 - new icon added
-- sendinblue is set up, fix email so it works
+- sendinblue is set up, fix email so it works, set it up 
