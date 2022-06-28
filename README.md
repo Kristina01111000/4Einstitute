@@ -29,3 +29,5 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 
 - new icon added
 - sendinblue is set up, fix email so it works, set it up 
+Figure out how scorecard navigation on cell phone will work
+Set up mail 
