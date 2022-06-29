@@ -6,8 +6,13 @@ Using astra theme
 not a very complicated site, 
 not collecting medical data
 
-This site is going to be for giving information to people, not storing peoples info correct? CORRECT
-Will be an informational site, collect emails from people, not a really in depth site, info page, about page, contact us page
+- giving information to people
+- not storing peoples info 
+- informational site
+- collect emails from people
+- info page
+- about page
+- contact us page
 
 Need a different email for four element institute contact form to go to - > send them to  hwalsdorf@e it will be something@fourelementinstitute.org will automatically be forwarded to his email contact@fourelementinstitute.org set that up
 Is the new font good? Look at a more modern sans serif type font, still make sure that the I has a top and bottom line. Remember name of current one so we can go back if we like it more, 
