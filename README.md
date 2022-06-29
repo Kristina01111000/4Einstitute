@@ -12,9 +12,7 @@ Will be an informational site, collect emails from people, not a really in depth
 Need a different email for four element institute contact form to go to - > send them to  hwalsdorf@e it will be something@fourelementinstitute.org will automatically be forwarded to his email contact@fourelementinstitute.org set that up
 Is the new font good? Look at a more modern sans serif type font, still make sure that the I has a top and bottom line. Remember name of current one so we can go back if we like it more, 
 
-- waiting on logo -> put a temp icon
-- Set up contact page so it works -> need institute data for send in blue, -> they need it so spammers don't use their service
-
+- waiting on logo 
 - add sendinblue to set up the contact page -> need business info for it 
 
 
