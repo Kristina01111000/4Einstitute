@@ -22,12 +22,11 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 - Remove my email form the form -> after it is set up
 - Wait for another page for resources page connection join us -> added to his to do list
 - Need articles for resources page
-- fix links on resource page
+
 
 
 - Figure out how scorecard navigation on cell phone will work
 
-- new icon added
+
 - sendinblue is set up, fix email so it works, set it up 
-Figure out how scorecard navigation on cell phone will work
 Set up mail 
