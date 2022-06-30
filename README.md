@@ -18,19 +18,9 @@ Need a different email for four element institute contact form to go to - > send
 Is the new font good? Look at a more modern sans serif type font, still make sure that the I has a top and bottom line. Remember name of current one so we can go back if we like it more, 
 
 - waiting on logo 
-- add sendinblue to set up the contact page -> need business info for it 
-
-
 - Think of better title/picture for title
 - possible logos? maybe a triangle?
 - Remove my email form the form -> after it is set up
 - Wait for another page for resources page connection join us -> added to his to do list
 - Need articles for resources page
-
-
-
 - Figure out how scorecard navigation on cell phone will work
-
-
-- sendinblue is set up, fix email so it works, set it up 
-Set up mail 
