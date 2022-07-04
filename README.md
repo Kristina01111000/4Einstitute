@@ -23,6 +23,6 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 - Remove my email form the form 
 - Wait for another page for resources page connection join us -> added to his to do list
 - Need articles for resources page
-- Figure out how scorecard navigation on cell phone will work
 
--error message when he tries to submit the form, figure it out
+
+i fixed the form, and added his email to the contact, hopefully it works!
