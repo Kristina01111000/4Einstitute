@@ -26,3 +26,5 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 - Add a contact us form to the site, below the sidebar section
 - make all changes to scorecard page as on the other site, also any changes to the documentary
 i fixed the form, and added his email to the contact, hopefully it works!
+
+- make sure to update the scorecard copy when he changes it for the other site
