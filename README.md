@@ -22,7 +22,6 @@ Is the new font good? Look at a more modern sans serif type font, still make sur
 - possible logos? maybe a triangle?
 - Wait for another page for resources page connection join us -> added to his to do list
 - Need articles for resources page
-- Add a contact us form to the site, below the sidebar section
 - make all changes to scorecard page as on the other site, also any changes to the documentary
 - i fixed the form, and added his email to the contact, hopefully it works!
 
