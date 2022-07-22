@@ -20,6 +20,4 @@ Need a different email for four element institute contact form to go to - > send
 - possible logos? maybe a triangle?
 - Need articles for resources page
 - make all changes to scorecard page as on the other site, also any changes to the documentary
-- i fixed the form, and added his email to the contact, hopefully it works!
-
-- make sure to update the scorecard copy when he changes it for the other site
+  - is this still accurate?
