@@ -20,4 +20,4 @@ Need a different email for four element institute contact form to go to - > send
 - possible logos? maybe a triangle? or just initials?
 - Need articles for resources page
 - make all changes to scorecard page as on the other site, also any changes to the documentary
-  - is this still accurate?
+  - is this still accurate? YES, need to make the changes
