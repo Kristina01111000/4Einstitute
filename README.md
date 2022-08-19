@@ -21,3 +21,5 @@ Need a different email for four element institute contact form to go to - > send
 - Need article pdfs for resources page
 - make all changes to scorecard page as on the other site, also any changes to the documentary
   - is this still accurate? YES, need to make the changes
+
+- need to add him as admin in analytics once it goes through
