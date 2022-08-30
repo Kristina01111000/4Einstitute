@@ -18,7 +18,7 @@ Need a different email for four element institute contact form to go to - > send
 
 - possible logos? maybe a triangle? or just initials? leave initials for now
 - Need article pdfs for resources page - links for the articles are up
-- make all changes to scorecard page as on the other site, also any changes to the documentary
+- make all changes to scorecard page as on the other site
   - is this still accurate? YES, still need to make the changes
 
 - need to add him as admin in analytics once it goes through
