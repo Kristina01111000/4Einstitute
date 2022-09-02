@@ -22,3 +22,4 @@ Need a different email for four element institute contact form to go to - > send
   - is this still accurate? YES, still need to make the changes
 
 - need to add him as admin in analytics once it goes through
+- he sent the pdfs
