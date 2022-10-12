@@ -21,8 +21,4 @@ Need a different email for four element institute contact form to go to - > send
   - is this still accurate? YES, still need to make the changes
 
 - need to add him as admin in analytics once it goes through
-
-4 e institute 
-- https://growingholistically.com/the-four-element-scorecard/ From 4 element scorecard page, 
-- delete everything below the first 3 paragraphs 
-- Then add a section that says “Try the four element scorecard as part of the Dr. Walsdorf’s 30 day holistic challenge on growingholistically.com ”
+- chcek activities page on resources page
