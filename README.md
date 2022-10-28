@@ -16,4 +16,4 @@ Need a different email for four element institute contact form to go to - > send
 - make all changes to scorecard page as on the other site
   - is this still accurate? YES, still need to make the changes
 
-- need to add him as admin in analytics once it goes through
+- need to add him as admin in analytics once it goes through -> do this next week on thursday before call
