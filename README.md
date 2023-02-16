@@ -17,3 +17,5 @@ Need a different email for four element institute contact form to go to - > send
 - need to add him as admin in analytics once it goes through -> do this next week on thursday before call
 
 - need to confirm he iss getting both contact forms from the site then remove my email from the forms
+
+- he can login to the site now, was having an issue before.  uses his gmail email for it
