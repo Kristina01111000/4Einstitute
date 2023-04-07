@@ -21,3 +21,5 @@ Need a different email for four element institute contact form to go to - > send
 - he can login to the site now, was having an issue before.  uses his gmail email for it
 
 - make sure to update the themes every couple months
+
+- this site isn't really being used right now, 
