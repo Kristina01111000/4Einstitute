@@ -22,4 +22,4 @@ Need a different email for four element institute contact form to go to - > send
 
 - make sure to update the themes every couple months
 
-- this site isn't really being used right now, 
+- he keeps messing up the resources page, check it every month or so
