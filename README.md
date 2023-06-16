@@ -20,4 +20,4 @@ Need a different email for four element institute contact form to go to - > send
 
 - make sure to update the themes every couple months
 
-- he keeps messing up the resources page, check it every month or so
+- he keeps messing up the resources page, check it every month or so, also need to update the astra theme
