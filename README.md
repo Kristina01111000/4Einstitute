@@ -16,3 +16,6 @@ Need a different email for four element institute contact form to go to - > send
 - need to add him as admin in analytics once it goes through -> do this next week on thursday before call
 - he can login to the site now, was having an issue before.  uses his gmail email for it
 - double check the score card page
+
+
+can't get into the backend of the site, wp-admin goes to 404 page, need to ask for access to siteground to get in
