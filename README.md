@@ -18,4 +18,4 @@ Need a different email for four element institute contact form to go to - > send
 - double check the score card page
 
 
-can't get into the backend of the site, wp-admin goes to 404 page, need to ask for access to siteground to get in
+find a new security plugin, or see if the security plugin works now w/o causing issues for login
