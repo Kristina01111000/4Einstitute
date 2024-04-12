@@ -19,3 +19,4 @@ Need a different email for four element institute contact form to go to - > send
 
 
 find a new security plugin, or see if the security plugin works now w/o causing issues for login -> it is still an issue, look at other plugins or find another way to login
+Is he still using this site? should he talk to the publicist about this?
