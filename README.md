@@ -22,3 +22,4 @@ find a new security plugin, or see if the security plugin works now w/o causing 
 Is he still using this site? should he talk to the publicist about this?
 
 don't link to the patreon from this site
+get a new security plugin
