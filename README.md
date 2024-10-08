@@ -23,3 +23,5 @@ Is he still using this site? should he talk to the publicist about this?
 
 don't link to the patreon from this site
 get a new security plugin
+
+- need to look at all the pages to see if they are updated to current standards
