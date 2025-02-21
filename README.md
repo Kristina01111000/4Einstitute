@@ -25,3 +25,6 @@ don't link to the patreon from this site
 get a new security plugin
 
 - need to look at all the pages to see if they are updated to current standards
+
+
+- need to check any links to 30 day challenge, change to tabulator
