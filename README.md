@@ -29,6 +29,3 @@ get a new security plugin
 
 - need to check any links to 30 day challenge, change to tabulator
 
-- On fourelementinstitute.org bring 4,5,6 on projects up to the top, renumber them to be 1,2,3, 
-  - Switch spring to fall,
-  - Make the spacing better
