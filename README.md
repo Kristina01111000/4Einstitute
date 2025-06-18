@@ -29,4 +29,4 @@ get a new security plugin
 
 - need to check any links to 30 day challenge, change to tabulator
 
-- make changes in email he sent
+- ask about email 
