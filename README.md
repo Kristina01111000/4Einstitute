@@ -30,3 +30,15 @@ get a new security plugin
 - need to check any links to 30 day challenge, change to tabulator
 
 - ask about email 
+
+
+- On https://fourelementinstitute.org/holistic-renewal-campaign/ add images
+- On https://fourelementinstitute.org/projects/
+- get rid of the second balance bold
+- Bold the whole phrase “reference system for balance”
+- Fix the numbers of the projects, there are two 4’s
+- Change project 2 to “academic applications from Physics to Chemistry, Medicine to Biomechanics, Politics to Economics, applying holistic concepts”
+- Add a line https://fourelementinstitute.org/contact-us/
+- Add a dropdown menu that has the projects on it and an other section
+- He wants a new page for each project, he will write something and send it to me
+- Add padding to all of the text on the site, figure out how to not have it for happen in cell phone view, write it in css and add it to all of the paragraphs, a little wider than the pdf page
