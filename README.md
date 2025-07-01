@@ -32,4 +32,6 @@ get a new security plugin
 - ask about email 
 
 
-- He wants a new page for each project, he will write something and send it to me
+- He wants a new page for each project, he will write something and send it to me- > not focusing on that right now
+
+- look at more images for the site, some that look more professional
