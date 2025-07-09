@@ -24,3 +24,4 @@ find a new security plugin, or see if the security plugin works now w/o causing 
 
 - He wants a new page for each project, he will write something and send it to me- > not focusing on that right now
 - look at more images for the site, some that look more professional
+- - the images we have are ok for now, he probably will want something different
